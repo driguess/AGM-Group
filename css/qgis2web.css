@@ -45,7 +45,7 @@
             min-width: 75px;
         }
         .leaflet-popup-content td {
-            min-width: 75px;
+            min-width: 90px;
         }
         .leaflet-popup-content td img {
             max-height: 60vh;
