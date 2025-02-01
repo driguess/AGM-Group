@@ -40,9 +40,9 @@
             height: auto!important;
         }
         .leaflet-popup-content th {
-            text-align: left;
+            text-align: center;
             vertical-align: top;
-            min-width: 75px;
+            min-width: 90px;
         }
         .leaflet-popup-content td {
             min-width: 90px;
